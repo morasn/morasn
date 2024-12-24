@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Regnotify](https://github.com/morasn/Regnotify)
 
-- 📫 How to reach me **omarmusn6@aucegypt.edu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-abdelrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amigo" height="30" width="40" /></a>
